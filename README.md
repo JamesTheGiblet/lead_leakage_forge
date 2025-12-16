@@ -1,7 +1,3 @@
-Here is a professional, ready-to-use `README.md` for your LeadForge program. You can copy and paste this directly into a markdown file.
-
----
-
 #🚀 LeadForge - Conversion Simulator**LeadForge** is a single-page interactive application designed to visualize the "Cost of Inaction" in sales and marketing. It simulates how response time ("Speed to Lead") and operational friction impact revenue capture.
 
 This tool is built to demonstrate the exponential decay of lead value over time, helping businesses understand the ROI of implementing automation and CRM systems.
